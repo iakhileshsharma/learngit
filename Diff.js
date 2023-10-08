@@ -1,3 +1,3 @@
  function arr(){
-    
+    let arr = [];
  }
